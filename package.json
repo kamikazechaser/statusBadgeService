@@ -1,0 +1,10 @@
+{
+  "name": "statusbadgeservice",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "feathers": "^2.0.2",
+  },
+  "author": "Mohammed Sohail",
+  "license": "MIT"
+}
